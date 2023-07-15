@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(238, 177, 97);
+    margin-top: 15px;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+}
+
+h2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+label[for="num11"], label[for="num12"], label[for="num13"]
+{
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 17px
+}
